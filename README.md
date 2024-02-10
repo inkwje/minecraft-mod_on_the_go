@@ -1,6 +1,6 @@
 # Minecraft mod on the go
 
-Simple and structured bash script client
+Simple and structured sh script client
 
 ## Preamble
 
