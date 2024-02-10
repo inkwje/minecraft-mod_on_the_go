@@ -18,16 +18,18 @@ minecraft
 ├── mc-switcher.sh
 ├── README.md
 ├── shaderpacks
-│  ├── ...
-│  ├── shader.zip
-│  └── shader.zip.txt
+│  ├── shader-a.zip
+│  ├── shader-a.zip.txt
+│  └── ...
 └── versions
    ├── A.BC.D
-   │  ├── ...
-   │  └── mod-A.BC.D.jar
+   │  ├── mod-1-A.BC.D.jar
+   │  ├── mod-2-A.BC.D.jar
+   │  └── ...
    └── W.XY.Z
-      ├── ...
-      └── mod-W.XY.Z.jar
+      ├── mod-1-W.XY.Z.jar
+      ├── mod-2-W.XY.Z.jar
+      └── ...
 ```
 
 ### Script
